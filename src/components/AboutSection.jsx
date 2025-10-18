@@ -44,7 +44,7 @@ export const AboutSection = () => {
                 <div className="grid grid-cols-1 gap-6">
                     <div className="flex justify-center md:justify-start p-4">
                         <div className="w-48 h-48 sm:w-56 sm:h-56 md:w-72 md:h-72 lg:w-80 lg:h-80 rounded-xl overflow-hidden border-2 border-indigo-500/70 shadow-2xl hover:shadow-indigo-500/40 transition-shadow duration-300">
-                            <img src="/src/assets/Profile.jpg" alt="Profile" className="w-full h-full object-cover" />
+                            <img src="/projects/profile0.jpg" alt="Profile" className="w-full h-full object-cover" />
                         </div>
                     </div>
 

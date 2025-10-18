@@ -5,7 +5,7 @@ const projects = [
         id: 1,
         title: "Learning Management System",
         description: " Edemy LMS site with Clerk Auth, Quill, Stripe Sandbox, and Postman — Enrollments, Payments, API Management.",
-        image: "/public/projects/project1.png",
+        image: "/projects/project1.png",
         tags: ["React", "TailwindCSS", "Express", "MongoDB"],
         demoUrl: "https://lms-frontend-kohl-three.vercel.app/",
         githubUrl: "https://github.com/nahinhoque/LMS"
@@ -15,7 +15,7 @@ const projects = [
         id: 2,
         title: "Real-Time Chat-app",
         description: "A scalable, responsive chat solution featuring seamless real-time communication, robust authentication, and smooth data persistence across frontend and backend.",
-        image: "/public/projects/project2.png",
+        image: "/projects/project2.png",
         tags: ["Socket.io", "TailwindCSS", "Express", "React", "MongoDB"],
         demoUrl: "https://chat-app-mu-smoky.vercel.app/",
         githubUrl: "https://github.com/nahinhoque/chat-app"
@@ -25,7 +25,7 @@ const projects = [
         id: 3,
         title: "Task Manager",
         description: "A smart, easy-to-use daily task manager with a clean interface.",
-        image: "/public/projects/project3.png",
+        image: "/projects/project3.png",
         tags: ["React", "TailwindCSS", "Js."],
         demoUrl: "https://webdev-project-react-4.vercel.app/",
         githubUrl: "https://github.com/nahinhoque/Webdev-Project-React--4"
