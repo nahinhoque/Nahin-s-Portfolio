@@ -8,9 +8,9 @@ const skills = [
     {name: "HTML/CSS", level: 95, category: "frontend"},
     {name: "Tailwind CSS", level: 80, category: "frontend"},
     {name: "JavaScript", level: 70, category: "frontend"},
-    {name: "TypeScript", level: 60, category: "frontend"},
+    {name: "TypeScript", level: 45, category: "frontend"},
     {name: "React", level: 70, category: "frontend"},
-    {name: "Redux", level: 65, category: "frontend"},
+    {name: "Redux", level: 60, category: "frontend"},
     {name: "Next.js", level: 65, category: "frontend"},
 
 
@@ -23,7 +23,6 @@ const skills = [
 
     // Tools
     {name: "Git/Github", level: 70, category: "tools"},
-    {name: "Figma", level: 60, category: "tools"},
     {name: "Postman", level: 70, category: "tools"},
     {name: "Stripe", level: 70, category: "tools"},
     {name: "Socket.io", level: 60, category: "tools"},

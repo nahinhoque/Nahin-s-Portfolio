@@ -18,7 +18,7 @@ export const HeroSection = () => {
             </h1>
 
            
-            <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">Emerging Web Developer | Seeking Real-World Team Experience.</p>
+            <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">Emerging Full-Stack Web Developer | Seeking Real-World Team Experience.</p>
             
             <div className="opacity-0 animate-fade-in-delay-4 pt-4">
                 <a href="#projects" className="cosmic-button">
